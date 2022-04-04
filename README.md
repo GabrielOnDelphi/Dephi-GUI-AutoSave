@@ -1,6 +1,6 @@
 # GUI-AutoSave
 
-This application will demonstrate:
+This Delphi application will demonstrate:
 
   1. How to save the state of all GUI controls on application shutdown and then restore them loaded on application startup:
        * checkboxes
