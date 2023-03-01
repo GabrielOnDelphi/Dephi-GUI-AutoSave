@@ -12,6 +12,7 @@ This Delphi application will demonstrate:
   2. How to send messages to the AppLog (a app-wide message logging system).
 
   This demo app requires the LightSaber Core and Log library:   
-  [https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib](https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib)
-  
-  https://github.com/GabrielOnDelphi/Delphi-LightSaber-LogLib     
+   * https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib   
+   * https://github.com/GabrielOnDelphi/Delphi-LightSaber-LogLib     
+
+Read more here: https://gabrielmoraru.com/one-function-to-rule-them-all-saving-the-whole-gui-to-disk-with-one-single-procedure-call/
