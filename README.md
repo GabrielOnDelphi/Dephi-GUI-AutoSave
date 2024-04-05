@@ -15,4 +15,6 @@ This Delphi application will demonstrate:
    * https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib   
    * https://github.com/GabrielOnDelphi/Delphi-LightSaber-LogLib     
 
-Read more here: https://gabrielmoraru.com/one-function-to-rule-them-all-saving-the-whole-gui-to-disk-with-one-single-procedure-call/
+
+FULL description here: 
+https://gabrielmoraru.com/one-function-to-rule-them-all-saving-the-whole-gui-to-disk-with-one-single-procedure-call/
