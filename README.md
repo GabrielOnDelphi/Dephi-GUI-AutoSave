@@ -15,7 +15,7 @@ This Delphi application will demonstrate:
    * https://github.com/GabrielOnDelphi/Delphi-LightSaber-CoreLib   
    * https://github.com/GabrielOnDelphi/Delphi-LightSaber-LogLib     
 
-  
+_________________
   
   
 FULL description here: 
